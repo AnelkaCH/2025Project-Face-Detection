@@ -1,4 +1,6 @@
-# Face Detection
+# Face Detection 🤖👦🏻
+
+(Note: This project was made in 2025, but I decided to upload it to GitHub in 2026 to keep it safe :D. )
 
 Have you seen those machines that like detects human faces? I wanted to try something similar, but simpler ofc!
 
